@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-    internal class Point
+    internal struct Point
     {
 
         public int X;

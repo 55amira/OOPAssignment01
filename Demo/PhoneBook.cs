@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-    internal class PhoneBook
+    internal struct PhoneBook
     {
 
         string[] names;
