@@ -13,7 +13,7 @@
 
             ////Console.WriteLine(P01.X);
             ////Console.WriteLine(P01.Y);//unassigned
-
+   
             ////P01.X = 12;
             ////P01.Y = 12;
             ////Console.WriteLine(P01.X);
